@@ -1,7 +1,6 @@
-//Git-HUB
 #include"89C51.h"
 #include"LCD.h"
-
+#include <stdio.h>
 #define r0 P1_0
 #define r1 P1_1
 #define r2 P1_2
